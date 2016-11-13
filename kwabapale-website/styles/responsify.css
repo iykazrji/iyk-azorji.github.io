@@ -1,0 +1,11 @@
+@media(max-width: 1200px){
+	.section__first .image-holder{
+		display: none;
+	}
+	.nav-menu-holder{
+		display: block;
+	}
+	.nav-menu-holder .list{
+		display: none;
+	}
+}
