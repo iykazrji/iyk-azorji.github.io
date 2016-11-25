@@ -240,10 +240,12 @@ header .navbar .nav-menu-holder ul li a:hover{
 }
 .section__first .hero-txt{
 	font-size: 16px;
-	background-color: #ffffff;
+	color: #ffffff;
+	text-shadow: 1px 1px 2px rgba(10, 10, 10, 0.3);
 	padding-top: 20px;
 	line-height: 30px;
 	padding-bottom: 20px;
+	padding-top: 80px;
 }
 .section__first .hero-txt .content-border{
 	height: 100%;
@@ -260,7 +262,7 @@ header .navbar .nav-menu-holder ul li a:hover{
 }
 .section__first .hero-txt .content-holder{
 	top: 0; right: 0; left: 0; bottom: 0;
-	margin-top: 40px;
+	margin-top: 70px;
 
 }
 .section__first .hero-txt .diamond span{
@@ -268,13 +270,13 @@ header .navbar .nav-menu-holder ul li a:hover{
 	height: 50px;
 }
 .section__first .hero-txt h1{
-	font-size: 60px;
+	font-size: 68px;
 }
 .section__first .hero-txt h2{
-	font-size: 45px;
+	font-size: 50px;
 }
 .section__first .hero-txt h3{
-	font-size: 30px
+	font-size: 35px
 }
 
 .section__first .hero-txt p{
